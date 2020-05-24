@@ -1,0 +1,8 @@
+User: 420
+deposited 420
+withdrew 10
+
+
+
+
+New Balance: 410
